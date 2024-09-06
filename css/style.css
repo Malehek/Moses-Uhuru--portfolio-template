@@ -3,7 +3,7 @@
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
-  --purple: #6f42c1;
+  --purple: #8350e2;
   --pink: #e83e8c;
   --red: #dc3545;
   --orange: #fd7e14;
@@ -9978,6 +9978,9 @@ h6,
   list-style-type: none;
 }
 
+<<<<<<< HEAD
 .bg-primary {
   background-color: rgb(71 53 82) !important;
 }
+=======
+>>>>>>> 286fec822a3a98ca985b15fcf0b9ba5f8366ccdf
