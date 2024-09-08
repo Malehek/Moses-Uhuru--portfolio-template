@@ -9520,7 +9520,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #0BCEAF !important;
+  color: #09aa90 !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -9978,9 +9978,7 @@ h6,
   list-style-type: none;
 }
 
-<<<<<<< HEAD
+
 .bg-primary {
-  background-color: rgb(71 53 82) !important;
+  background-color: #121416 !important;
 }
-=======
->>>>>>> 286fec822a3a98ca985b15fcf0b9ba5f8366ccdf
